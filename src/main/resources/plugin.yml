@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+main: com.aeternum.foundry.Foundry
+author: Aeternum
+commands:
